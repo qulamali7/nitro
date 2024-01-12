@@ -1,0 +1,27 @@
+#about{
+    padding: 120px 0px;
+    .about_container{
+        max-width: 1200px;
+        margin: auto;
+        .about_area{
+            .about_title{
+
+            }
+            .about_content{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                .about_img{
+                    width: 48%;
+                    img{
+
+                    }
+                }
+                .about_text{
+                    width: 48%;
+
+                }
+            }
+        }
+    }
+}

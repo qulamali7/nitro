@@ -1,0 +1,9 @@
+.services_cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    .services_card{
+        width: 33%;
+        margin-bottom: 30px;
+    }
+}
